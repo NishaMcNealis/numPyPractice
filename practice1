@@ -2,4 +2,4 @@
 #test
 s = 2
 r = 3
-print "s+r"
+print ("s+r =", s+r)
